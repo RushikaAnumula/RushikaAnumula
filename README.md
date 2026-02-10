@@ -45,17 +45,6 @@ Git | GitHub | Docker | Linux
 - Designed for scalability, usability, and preserving family heritage digitally
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RushikaAnumula&show_icons=true&count_private=true&theme=radical&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RushikaAnumula&layout=compact&theme=radical&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=RushikaAnumula&theme=radical&hide_border=true"/>
-</p>
-
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RushikaAnumula&show_icons=true&count_private=true&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RushikaAnumula&layout=compact&theme=tokyonight&hide_border=true)
