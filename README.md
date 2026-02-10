@@ -13,9 +13,8 @@
 - 🌱 Always learning, building, and improving
 
 ## 🌐 Connect With Me
-- 📧 Email: yourmail@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/your-link  
-- 🌍 Portfolio: https://your-portfolio-link  
+- 📧 Email: rushikaanumula2006@gmail.com  
+- 💼 LinkedIn: www.linkedin.com/in/rushikaanumula
 
 ## 💻 Tech Stack & Tools
 ### 🧠 AI / ML / DL
