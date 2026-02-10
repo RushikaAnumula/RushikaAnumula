@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rushika Anumula  
+# 👋 Hi, I'm Rushika
 🎓 Computer Science Engineering Student  
 💻 DSA in Java | 🤖 AI / ML / Deep Learning | 🌐 MERN | ⚙️ DevOps  
 🚀 Passionate about building real-world, scalable solutions  
