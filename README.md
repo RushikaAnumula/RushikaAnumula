@@ -17,18 +17,17 @@
 - 💼 LinkedIn: www.linkedin.com/in/rushikaanumula
 
 ## 💻 Tech Stack & Tools
-
 ### 🧠 AI / ML / DL
-🐍 Python · 🔥 PyTorch · 🧠 TensorFlow · 👁️ YOLO · 🔷 ViT
+Python | PyTorch | TensorFlow | YOLO | ViT
 
 ### 🌐 Full-Stack (MERN)
-🍃 MongoDB · ⚙️ Express · ⚛️ React · 🟢 Node.js
+MongoDB | Express | React | Node.js
 
 ### 📚 DSA & Programming
-☕ Java · 🔵 C · 🟣 C++
+Java | C | C++
 
 ### ⚙️ DevOps & Tools
-🔧 Git · 🐙 GitHub · 🐳 Docker · 🐧 Linux 
+Git | GitHub | Docker | Linux | Postman
 
 ## 🔥 Featured Projects
 ### 🚧 SafeStreet – Road Damage Detection & Prioritization
@@ -46,15 +45,12 @@
 - Improved communication & reduced manual work
 
 ## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rushika-Anumula&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rushika-Anumula&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rushika-Anumula&layout=compact&theme=radical" height="160"/>
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rushika-Anumula&layout=compact&theme=tokyonight)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Rushika-Anumula&theme=radical"/>
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=Rushika-Anumula&theme=tokyonight)
+
 
 
 ## ✨ What I’m Looking For
