@@ -47,6 +47,7 @@ Git | GitHub | Docker | Linux
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RushikaAnumula&show_icons=true&count_private=true&theme=tokyonight&hide_border=true)
 
+### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RushikaAnumula&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=RushikaAnumula&theme=tokyonight&hide_border=true)
