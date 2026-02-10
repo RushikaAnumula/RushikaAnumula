@@ -18,16 +18,16 @@
 
 ## 💻 Tech Stack & Tools
 ### 🧠 AI / ML / DL
-Python | PyTorch | TensorFlow | YOLO | ViT
+Python | PyTorch | YOLO | ViT
 
 ### 🌐 Full-Stack (MERN)
 MongoDB | Express | React | Node.js
 
 ### 📚 DSA & Programming
-Java | C | C++
+Java 
 
 ### ⚙️ DevOps & Tools
-Git | GitHub | Docker | Linux | Postman
+Git | GitHub | Docker | Linux 
 
 ## 🔥 Featured Projects
 ### 🚧 SafeStreet – Road Damage Detection & Prioritization
@@ -37,20 +37,20 @@ Git | GitHub | Docker | Linux | Postman
 - Backend: **Node.js + Express + MongoDB**
 - Focused on real-world usability & scalability
 
-### 🏢 Balkrishna Nivas – Residential Services Web App
-🌐 **Full-stack web application**
-- Service request & complaint management system
-- Used by residents for tracking & updates
-- MERN-based architecture with responsive UI
-- Improved communication & reduced manual work
+### 🏠 Bal Krishna Nivas – Family Portal Web Application
+🌐 **Full-stack MERN web application**
+- Centralized platform to manage family information, news, events, and photo gallery
+- Dynamic gallery integrating images from events, news, and member uploads
+- Role-based access with admin moderation and email-based verification
+- Designed for scalability, usability, and preserving family heritage digitally
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rushika-Anumula&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rushika-Anumula&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=(https://github.com/RushikaAnumula)&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Rushika-Anumula&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=(https://github.com/RushikaAnumula)&layout=compact&theme=tokyonight)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=(https://github.com/RushikaAnumula)&theme=tokyonight)
 
 
 ## ✨ What I’m Looking For
