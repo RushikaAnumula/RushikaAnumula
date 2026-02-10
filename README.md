@@ -24,7 +24,7 @@ Python | PyTorch | YOLO | ViT
 MongoDB | Express | React | Node.js
 
 ### 📚 DSA & Programming
-Java 
+Java | C | Python
 
 ### ⚙️ DevOps & Tools
 Git | GitHub | Docker | Linux 
