@@ -7,7 +7,7 @@
 ## 🚀 About Me
 - 🧠 Strong foundation in **Data Structures & Algorithms (Java)**
 - 🤖 Hands-on experience with **AI / ML / DL models**
-- 👁️ Worked with **Vision Transformers (ViT) & YOLO** for computer vision
+- 👁️ Worked with **Vision Transformers (ViT) & YOLO**
 - 🌐 Full-stack development using **MERN stack**
 - ⚙️ Familiar with **DevOps basics & deployment workflows**
 - 🌱 Always learning, building, and improving
@@ -19,13 +19,10 @@
 ## 💻 Tech Stack & Tools
 ### 🧠 AI / ML / DL
 Python | PyTorch | YOLO | ViT
-
 ### 🌐 Full-Stack (MERN)
 MongoDB | Express | React | Node.js
-
 ### 📚 DSA & Programming
 Java | C | Python
-
 ### ⚙️ DevOps & Tools
 Git | GitHub | Docker | Linux 
 
