@@ -36,6 +36,8 @@ Git | GitHub | Docker | Linux
 - End-to-end pipeline: image upload → prediction → storage
 - Backend: **Node.js + Express + MongoDB**
 - Focused on real-world usability & scalability
+🔗 **Live Website:** https://safestreet-road-damage-detection-system.onrender.com/  
+📝 **LinkedIn Post:** https://www.linkedin.com/posts/rushikaanumula_safestreet-inspectify-yolov8-ugcPost-7356748689383575552-4z4h
 
 ### 🏠 Bal Krishna Nivas – Family Portal Web Application
 🌐 **Full-stack MERN web application**
@@ -43,6 +45,8 @@ Git | GitHub | Docker | Linux
 - Dynamic gallery integrating images from events, news, and member uploads
 - Role-based access with admin moderation and email-based verification
 - Designed for scalability, usability, and preserving family heritage digitally
+🔗 **Live Website:** https://balkrishnanivas.in/  
+📝 **LinkedIn Post:** https://www.linkedin.com/posts/rushikaanumula_webdevelopment-mernstack-realworldproject-ugcPost-7412851664459735040-9z1v  
 
 ## 📊 GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=RushikaAnumula&theme=tokyonight&hide_border=true)
