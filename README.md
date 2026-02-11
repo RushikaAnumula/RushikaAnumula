@@ -36,7 +36,7 @@ Git | GitHub | Docker | Linux
 - End-to-end pipeline: image upload → prediction → storage
 - Backend: **Node.js + Express + MongoDB**
 - Focused on real-world usability & scalability
-🔗 **Project Highlights:** 
+- 🔗 **Project Highlights:** 
 https://www.linkedin.com/posts/rushikaanumula_safestreet-inspectify-yolov8-ugcPost-7356748689383575552-4z4h
 
 ### 🏠 Bal Krishna Nivas – Family Portal Web Application
@@ -45,7 +45,7 @@ https://www.linkedin.com/posts/rushikaanumula_safestreet-inspectify-yolov8-ugcPo
 - Dynamic gallery integrating images from events, news, and member uploads
 - Role-based access with admin moderation and email-based verification
 - Designed for scalability, usability, and preserving family heritage digitally
-🔗 **Project Highlights:** 
+- 🔗 **Project Highlights:** 
 https://www.linkedin.com/posts/rushikaanumula_webdevelopment-mernstack-realworldproject-ugcPost-7412851664459735040-9z1v  
 
 ## 📊 GitHub Stats
