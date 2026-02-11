@@ -44,9 +44,6 @@ Git | GitHub | Docker | Linux
 - Role-based access with admin moderation and email-based verification
 - Designed for scalability, usability, and preserving family heritage digitally
 
-## 🧩 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/Rushikaanumula_13?theme=dark&font=Karma&ext=contest&border=1)
-
 ## 📊 GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=RushikaAnumula&theme=tokyonight&hide_border=true)
 
