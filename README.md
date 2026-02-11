@@ -37,7 +37,7 @@ Git | GitHub | Docker | Linux
 - Backend: **Node.js + Express + MongoDB**
 - Focused on real-world usability & scalability
 - 🔗 **Project Highlights:** 
-https://www.linkedin.com/posts/rushikaanumula_safestreet-inspectify-yolov8-ugcPost-7356748689383575552-4z4h
+[Know more about this project](https://www.linkedin.com/posts/rushikaanumula_safestreet-inspectify-yolov8-ugcPost-7356748689383575552-4z4h)
 
 ### 🏠 Bal Krishna Nivas – Family Portal Web Application
 🌐 **Full-stack MERN web application**
@@ -46,7 +46,7 @@ https://www.linkedin.com/posts/rushikaanumula_safestreet-inspectify-yolov8-ugcPo
 - Role-based access with admin moderation and email-based verification
 - Designed for scalability, usability, and preserving family heritage digitally
 - 🔗 **Project Highlights:** 
-https://www.linkedin.com/posts/rushikaanumula_webdevelopment-mernstack-realworldproject-ugcPost-7412851664459735040-9z1v  
+[Know more about this project](https://www.linkedin.com/posts/rushikaanumula_webdevelopment-mernstack-realworldproject-ugcPost-7412851664459735040-9z1v)
 
 ## 📊 GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=RushikaAnumula&theme=tokyonight&hide_border=true)
