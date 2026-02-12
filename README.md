@@ -50,9 +50,9 @@ Git | GitHub | Docker | Linux
 
 
 ## ✨ What I’m Looking For
-- 🔍 **AI / ML / DL Internships**
-- 🌐 **Full-Stack (MERN) Internships**
-- ⚙️ **DevOps & Cloud exposure**
+- 🔍 AI / ML / DL Internships
+- 🌐 Full-Stack (MERN) Internships
+- ⚙️ DevOps & Cloud exposure
 - 🤝 Open-source & collaborative projects
 
 ⭐ *Let’s build intelligent systems and impactful solutions together!*  
