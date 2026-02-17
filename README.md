@@ -29,9 +29,9 @@ Git | GitHub | Docker | Linux
 ## 🔥 Featured Projects
 ### 🚧 SafeStreet – Road Damage Detection & Prioritization
 🧠 **AI-powered computer vision system**
-- Detects road damage using **Vision Transformer (ViT) & YOLO**
+- Detects road damage using Vision Transformer (ViT) & YOLO
 - End-to-end pipeline: image upload → prediction → storage
-- Backend: **Node.js + Express + MongoDB**
+- Backend: Node.js + Express + MongoDB
 - Focused on real-world usability & scalability
 - **Project Highlights:** 
 [Know more about this project](https://www.linkedin.com/posts/rushikaanumula_safestreet-inspectify-yolov8-ugcPost-7356748689383575552-4z4h)
