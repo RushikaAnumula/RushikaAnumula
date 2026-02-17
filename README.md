@@ -5,11 +5,11 @@
 🤝 Open to **AI / Full-Stack / DevOps Internships & Collaborations**
 
 ## 🚀 About Me
-- 🧠 Strong foundation in **Data Structures & Algorithms (Java)**
-- 🤖 Hands-on experience with **AI / ML / DL models**
-- 👁️ Worked with **Vision Transformers (ViT) & YOLO**
-- 🌐 Full-stack development using **MERN stack**
-- ⚙️ Familiar with **DevOps basics & deployment workflows**
+- 🧠 Strong foundation in Data Structures & Algorithms (Java)
+- 🤖 Hands-on experience with *AI/ML/DL models
+- 👁️ Worked with Vision Transformers (ViT) & YOLO
+- 🌐 Full-stack development using MERN stack
+- ⚙️ Familiar with DevOps basics & deployment workflows
 - 🌱 Always learning, building, and improving
 
 ## 🌐 Connect With Me
