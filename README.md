@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 - 🧠 Strong foundation in Data Structures & Algorithms (Java)
-- 🤖 Hands-on experience with *AI/ML/DL models
+- 🤖 Hands-on experience with AI/ML/DL models
 - 👁️ Worked with Vision Transformers (ViT) & YOLO
 - 🌐 Full-stack development using MERN stack
 - ⚙️ Familiar with DevOps basics & deployment workflows
