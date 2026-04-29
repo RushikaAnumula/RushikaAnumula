@@ -22,7 +22,7 @@ Python | PyTorch | YOLO | ViT
 ### 🌐 Full-Stack (MERN)
 MongoDB | Express | React | Node.js
 ### 📚 DSA & Programming
-Java | C | Python
+Java | JavaScript | Python
 ### ⚙️ DevOps & Tools
 Git | GitHub | Docker | Linux 
 
