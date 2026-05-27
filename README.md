@@ -24,7 +24,7 @@ MongoDB | Express | React | Node.js
 ### 📚 DSA & Programming
 Java | JavaScript | Python
 ### ⚙️ DevOps & Tools
-Git | GitHub | Docker | Linux 
+Git | GitHub | Docker | Linux | AWS EC2
 
 ## 🔥 Featured Projects
 ### 🚧 SafeStreet – Road Damage Detection & Prioritization
