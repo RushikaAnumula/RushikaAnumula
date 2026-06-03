@@ -23,8 +23,8 @@ Python | PyTorch | YOLO | ViT
 MongoDB | Express | React | Node.js
 ### 📚 DSA & Programming
 Java | JavaScript | Python
-### ⚙️ DevOps & Tools
-Git | GitHub | Docker | Linux | AWS EC2
+### ⚙️ Tools & Cloud
+Git | GitHub | AWS EC2 | DevOps (CI/CD Fundamentals)
 
 ## 🔥 Featured Projects
 ### 🚧 SafeStreet – Road Damage Detection & Prioritization
