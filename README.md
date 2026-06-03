@@ -46,7 +46,7 @@ Git | GitHub | AWS EC2 | DevOps (CI/CD Fundamentals)
 [Know more about this project](https://www.linkedin.com/posts/rushikaanumula_webdevelopment-mernstack-realworldproject-ugcPost-7412851664459735040-9z1v)
 
 ## 📊 GitHub Stats
-[GitHub Streak](https://herokuapp.com)
+![GitHub Streak](https://streak-stats.demolab.com?user=RushikaAnumula&theme=tokyonight&hide_border=true)
 
 ## ✨ What I’m Looking For
 - 🔍 AI / ML / DL Internships
